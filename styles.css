@@ -72,5 +72,12 @@ footer {
   color: white;
   text-align: center;
   padding: 1rem;
+
   margin-top: 2rem;
 }
+
+.sub-edu {
+  margin-left: 2rem;
+  list-style-type: disc;
+}
+
