@@ -67,6 +67,11 @@ ul li {
   margin-bottom: 0.5rem;
 }
 
+.sub-edu {
+  margin-left: 2rem;
+  list-style-type: disc;
+}
+
 footer {
   background: #003366;
   color: white;
@@ -74,9 +79,3 @@ footer {
   padding: 1rem;
   margin-top: 2rem;
 }
-
-.sub-edu {
-  margin-left: 4rem;
-  list-style-type: disc;
-}
-
